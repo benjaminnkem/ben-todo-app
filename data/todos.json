@@ -1,0 +1,16 @@
+{
+  "todos": [
+    {
+      "title": "I'm going on a meeting tomorrow",
+      "note": "Blah blah",
+      "date": "2023-03-13T22:47:33.064Z",
+      "id": 1
+    },
+    {
+      "title": "I need to drink 5 cups of water today!",
+      "note": "iwewe",
+      "date": "2023-03-14T01:09:04.618Z",
+      "id": 3
+    }
+  ]
+}
